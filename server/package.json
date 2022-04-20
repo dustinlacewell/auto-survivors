@@ -1,0 +1,20 @@
+{
+  "name": "auto-survivors-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Lacewell",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/peerjs": "^1.1.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "peerjs-on-node": "^1.0.2",
+    "wrtc": "^0.4.7"
+  }
+}
